@@ -2,7 +2,7 @@
 
 # Preamble
 
-The goal of this project is to develop a neural network that will play poker with a tight aggressive playstyle.
+n_net_poker_player is a console program designed to utilize a neural network to play poker with a tight aggressive playstyle.
 
 This project initally was created in mid to late 2022 for a university assignment
 
